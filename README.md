@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Teyro</h1>
 <h3 align="center">Unreal Engine 4/5 Modder and Ts,js,C++ and C# developer from Germany</h3>
 
-- 🔭 Founder of **Astra**
+-  Founder of **Astra**
 
-- im looking for helpers or staff members in **Astra**
-
-- 🤝 Partnerships allowed **contact me.**
+- im looking for developers - **Astra**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
