@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teyro</h1>
-<h3 align="center">Unreal Engine 4/5 Modder developing with js,C++ C# , ts and python - 16yr old from Germany</h3>
+<h3 align="center">Unreal Engine 4/5 Modder coding with js, C++ C# , ts and python - 16yr old from Germany</h3>
 
 -  Founder of **Astra**
 
